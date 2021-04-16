@@ -1,9 +1,0 @@
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\bin\Debug\SoftHES.exe.config
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\bin\Debug\SoftHES.exe
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\bin\Debug\SoftHES.pdb
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\obj\Debug\SoftHES.csprojAssemblyReference.cache
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\obj\Debug\SoftHES.Properties.Resources.resources
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\obj\Debug\SoftHES.csproj.GenerateResource.cache
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\obj\Debug\SoftHES.csproj.CoreCompileInputs.cache
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\obj\Debug\SoftHES.exe
-C:\Users\User\Source\Repos\equipo6_HES\SoftHES\obj\Debug\SoftHES.pdb

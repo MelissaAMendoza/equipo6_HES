@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\bin\Debug\VistaAdministrador.exe.config
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\bin\Debug\VistaAdministrador.exe
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\bin\Debug\VistaAdministrador.pdb
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\obj\Debug\VistaAdministrador.Form1.resources
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\obj\Debug\VistaAdministrador.Properties.Resources.resources
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\obj\Debug\VistaAdministrador.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\obj\Debug\VistaAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\obj\Debug\VistaAdministrador.exe
+C:\Users\User\Source\Repos\equipo6_HES\VistaAdministrador\obj\Debug\VistaAdministrador.pdb

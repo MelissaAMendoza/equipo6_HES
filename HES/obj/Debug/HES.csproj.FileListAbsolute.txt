@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\equipo6_HES\HES\bin\Debug\HES.exe.config
+C:\Users\User\Source\Repos\equipo6_HES\HES\bin\Debug\HES.exe
+C:\Users\User\Source\Repos\equipo6_HES\HES\bin\Debug\HES.pdb
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.Properties.Resources.resources
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.exe
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.pdb
+C:\Users\User\Source\Repos\equipo6_HES\HES\obj\Debug\HES.Form1.resources

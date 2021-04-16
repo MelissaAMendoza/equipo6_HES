@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\bin\Debug\VistaUsuario.exe.config
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\bin\Debug\VistaUsuario.exe
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\bin\Debug\VistaUsuario.pdb
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.Form1.resources
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.Properties.Resources.resources
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.exe
+C:\Users\User\Source\Repos\equipo6_HES\VistaUsuario\obj\Debug\VistaUsuario.pdb

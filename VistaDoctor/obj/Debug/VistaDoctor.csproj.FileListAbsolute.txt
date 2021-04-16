@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\bin\Debug\VistaDoctor.exe.config
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\bin\Debug\VistaDoctor.exe
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\bin\Debug\VistaDoctor.pdb
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\obj\Debug\VistaDoctor.Form1.resources
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\obj\Debug\VistaDoctor.Properties.Resources.resources
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\obj\Debug\VistaDoctor.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\obj\Debug\VistaDoctor.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\obj\Debug\VistaDoctor.exe
+C:\Users\User\Source\Repos\equipo6_HES\VistaDoctor\obj\Debug\VistaDoctor.pdb
